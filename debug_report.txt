@@ -1,0 +1,15 @@
+POST:
+Array
+(
+    [bin_id] => BIN001
+    [report_type] => Damaged
+    [details] => 
+)
+
+DATA:
+Array
+(
+    [bin_id] => BIN001
+    [report_type] => Damaged
+    [details] => 
+)
